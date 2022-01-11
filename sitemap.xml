@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2021-12-29</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2021-12-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="index.es.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="ES">
+    <loc>index.es.htm</loc>
+    <lastmod>2021-12-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="index.es.htm" />
+  </url>
+  <url oeid="56f35b3c-c628-4047-86e6-d3508790bfe7" oelang="DEFAULT">
+    <loc>What is Qi Gong.htm</loc>
+    <lastmod>2021-12-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="What is Qi Gong.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="What is Qi Gong.es.htm" />
+  </url>
+  <url oeid="56f35b3c-c628-4047-86e6-d3508790bfe7" oelang="ES">
+    <loc>What is Qi Gong.es.htm</loc>
+    <lastmod>2021-12-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="What is Qi Gong.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="What is Qi Gong.es.htm" />
+  </url>
+  <url oeid="94b510f0-a54b-4390-a2ea-6109d390be64" oelang="DEFAULT">
+    <loc>About David.htm</loc>
+    <lastmod>2021-12-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="About David.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="About David.es.htm" />
+  </url>
+  <url oeid="94b510f0-a54b-4390-a2ea-6109d390be64" oelang="ES">
+    <loc>About David.es.htm</loc>
+    <lastmod>2021-12-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="About David.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="About David.es.htm" />
+  </url>
+  <url oeid="07e4a197-4efd-4700-addc-ad10e6ea1b39" oelang="DEFAULT">
+    <loc>Contact.htm</loc>
+    <lastmod>2021-12-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="Contact.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="Contact.es.htm" />
+  </url>
+  <url oeid="07e4a197-4efd-4700-addc-ad10e6ea1b39" oelang="ES">
+    <loc>Contact.es.htm</loc>
+    <lastmod>2021-12-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="Contact.htm" />
+    <xhtml:link rel="alternate" hreflang="es" href="Contact.es.htm" />
+  </url>
+</urlset>
